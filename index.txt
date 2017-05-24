@@ -1,4 +1,1 @@
-prueba
-prueba 3
-
-dia del completo
+texto a combinar
